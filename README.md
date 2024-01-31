@@ -5,7 +5,7 @@ Built via Python's pygame module.
 
 Inspired by GeeksforGeeks' tutorial: https://www.geeksforgeeks.org/create-a-pong-game-in-python-pygame/, I added some UI customizations of my own and modified the codebase with additional helper functions to enhance code readability and modularization.
 
-<img width="819" alt="image" src="https://github.com/LongPhan1912/Pong/assets/46760280/7d7a5828-abba-411b-810b-50a9378fb3e0">
+<img width="816" alt="image" src="https://github.com/LongPhan1912/Pong/assets/46760280/f702abb8-22b5-4646-9113-9f597bbdb01c">
 
 
 ### Installation ###
