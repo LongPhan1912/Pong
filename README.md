@@ -1,7 +1,8 @@
 # Pong
 
 Welcome to Pong!
-Built via Python's pygame module.
+
+Built with Python's pygame module.
 
 Inspired by GeeksforGeeks' tutorial: https://www.geeksforgeeks.org/create-a-pong-game-in-python-pygame/, I added some UI customizations of my own and modified the codebase with additional helper functions to enhance code readability and modularization.
 
